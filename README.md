@@ -1,6 +1,4 @@
-# cocacola
-my internship project (ERP APP - Inventory management system)
-
+# cocacola Read Me
 
 Hi, I’m Saleh Abbas (developer this web app) for my internship project to cocacola company in Palestine.
 
